@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app-layout-menu-btn.ant-btn:hover {
+    background: rgba(0, 0, 0, 0.8) !important
+}
+
+.app-layout-menu-btn-icon.ant-btn:hover {
+    color: #FF8F00 !important
+}
+
+::-webkit-scrollbar {
+    width: 7px
+}
+
+::-webkit-scrollbar-track {
+    width: 7px;
+    background-color: antiquewhite;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: coral;
+}
