@@ -4,9 +4,9 @@ Onework is a project management application designed to help teams efficiently m
 
 ## Features
 
-- **CLI-Based Automation**: Automates the creation of basic project services structure.
-- **JWT Authentication**: Secure session management using HTTP cookies with both access and refresh tokens.
-- **Serverless Email Services**: Integrates AWS Lambda to handle millions of email traffic for notifications.
+- **CLI-Based Scaffolding**: Provides Scaffolding of basic project services structure.
+- **JWT Authentication**: Secure session management using HTTP cookies only with both access and refresh tokens.
+- **Serverless Email Services**: Integrates AWS Lambda to handle large email traffic for notifications.
 - **Live Chat and Updates**: Real-time communication through socket integration for messaging and live updates.
 - **Video Calls**: WebRTC integration for seamless video communication.
 - **Task Management**: Utilizes MongoDB aggregation pipeline for managing tasks via sprint and kanban views.
@@ -33,7 +33,7 @@ Onework is a project management application designed to help teams efficiently m
 
 You will need to configure the following environment variables in a `.env` file:
 
-```plaintex
+```plaintext
 # Frontend                                   | # Backend
 -------------------------------------------- | -------------------------------------------------
 REACT_APP_APP_NAME=onework                   | PROD=false
@@ -57,7 +57,7 @@ REACT_APP_SUPPORT_EMAIL=support@onework.com  | USER_AGENT=localhost
 1. **Clone the Project**
 
     ```bash
-    git clone https://github.com/Talib8335/Ecommerce-project.git
+    https://github.com/Talib8335/Project-Management-App.git
     ```
 
 2. **Go to the Project Directory**
@@ -96,7 +96,7 @@ REACT_APP_SUPPORT_EMAIL=support@onework.com  | USER_AGENT=localhost
    # Example: npm run generate invitation
     
     ```
-## Snapshort
+## Snapshorts
 
 
 ### Register Page
