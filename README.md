@@ -1,4 +1,5 @@
 # Onework
+![mockuper (5)](https://github.com/user-attachments/assets/29027de2-3a85-42d1-a187-6617311262d3)
 
 Onework is a project management application designed to help teams efficiently manage tasks, communicate in real-time, and schedule meetings and collaborate through video calls. It features a microservices architecture and advanced integrations for task management and communication.
 
